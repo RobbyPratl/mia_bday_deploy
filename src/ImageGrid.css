@@ -1,0 +1,8 @@
+.image-container {
+  overflow: hidden; /* This will ensure the enlarged image doesn't overflow the container */
+  transition: transform 0.3s ease; /* Add a smooth transition effect */
+}
+
+.image-container:hover img {
+  transform: scale(1.2); /* Scale the image up by 20% on hover */
+}
