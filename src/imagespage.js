@@ -1,5 +1,4 @@
 import React from "react";
-import ImageGrid from "./ImageGrid";
 import Layout from "react-masonry-list";
 
 // Import individual image files

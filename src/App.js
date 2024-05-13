@@ -83,7 +83,7 @@ function App() {
               <div style={appContainerStyle}>
                 {" "}
                 <Button onClick={changeImage}>Blow the candles!</Button>{" "}
-                <img src={image} height="400" />{" "}
+                <img src={image} alt="Image of candles" height="400" />{" "}
                 <h1 style={headerStyle}>Happy Birthday Mia!!</h1>{" "}
                 <div style={buttonsContainerStyle}>
                   {" "}
